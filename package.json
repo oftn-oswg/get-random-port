@@ -1,0 +1,25 @@
+{
+  "name": "get-random-port",
+  "version": "0.0.0",
+  "description": "Get random open port in NodeJS",
+  "main": "index.js",
+  "bin": {
+    "get-random-port": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oftn/get-random-port.git"
+  },
+  "author": "Dan Kaplun <dan@secrettriangle.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oftn/get-random-port/issues"
+  },
+  "homepage": "https://github.com/oftn/get-random-port",
+  "dependencies": {
+    "bluebird": "^2.9.3"
+  }
+}
