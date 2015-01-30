@@ -1,6 +1,6 @@
 {
   "name": "get-random-port",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Get random open port in NodeJS",
   "main": "index.js",
   "bin": {
